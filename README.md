@@ -66,8 +66,9 @@
 
 ## 🐍 Contribution Snake (AUTO)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/SuprithKumar20/SuprithKumar20/blob/output/dist/github-contribution-grid-snake.svg)
 ---
 
 ## 🏆 Achievements
