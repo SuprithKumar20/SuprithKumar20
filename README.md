@@ -2,16 +2,25 @@
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%7C+ML+Explorer;React+%7C+Node+%7C+Django;Always+Learning+New+Things" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Suprith%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%7C+ML+Explorer;React+%7C+Node+%7C+Django;Building+Real+World+Projects" />
 </p>
 
 
 ---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=suprithkumarbl20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprithkumarbl20&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 
 <img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 🧑‍💻 About Me
-- 🎓 BE (ISE) | CGPA: **8.8**  
+- 🎓 BE (CSE) | CGPA: **8.8**  
 - 💡 Passionate about **AI, ML & Full Stack Development**  
 - 🔥 Building scalable, real-world applications  
 - 🧠 Strong in **Python, React, MERN, Django**  
@@ -89,7 +98,6 @@
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/suprithkumarbl20">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -99,7 +107,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SuprithKumar20">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
