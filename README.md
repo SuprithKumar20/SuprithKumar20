@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hey, I'm Suprith Kumar B L</h1>
-<img src="profile.jpg" width="180"/>
+<p align="center">
+  <img src="https://github.com/supri.jpeg" width="180"
+       style="border-radius: 50%; border: 4px solid #00f7ff; padding: 3px;" />
+</p>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Builder</h3>
 
 
