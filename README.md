@@ -1,9 +1,7 @@
 <h1 align="center">👋 Hey, I'm Suprith Kumar B L</h1>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Builder</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%7C+ML+Explorer;React+%7C+Node+%7C+Django;Always+Learning+New+Things" />
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" />
