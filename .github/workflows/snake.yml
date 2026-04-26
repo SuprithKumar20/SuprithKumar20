@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ FIX 1: Checkout repo (this solves your error)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Generate snake
       - name: Generate snake svg
         uses: Platane/snk@v3
         with:
@@ -20,7 +25,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
+      # Commit file
+      - name: Commit snake
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/github-contribution-grid-snake.svg"
