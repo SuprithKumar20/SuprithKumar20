@@ -70,10 +70,12 @@
 ![snake gif](https://github.com/SuprithKumar20/SuprithKumar20/blob/output/dist/github-contribution-grid-snake.svg)
 ---
 
-## 🏆 Achievements
+- ## 🏆 Achievements & Certifications
 
 - 🥇 Salesforce Certified Agentforce Specialist  
-- 💼 MERN Intern – EY Global Delivery Services  
+- 🎓 Full Stack Web Development – Dhee Coding Lab *(Pursuing)*  
+- 💼 MERN Stack Internship – EY Global Delivery Services & AICTE  
+- 🤖 Artificial Intelligence & Machine Learning – Infosys Springboard    
 - 🌐 Web Dev Intern – Code Alpha  
 
 ---
@@ -86,10 +88,14 @@
 
 ---
 
-## 🧠 Skills
 
-`Adaptability` `Leadership` `Time Management` `Problem Solving`
+## 🧠 Interpersonal Skills
 
+- ⚡ Adaptability  
+- ⏳ Time Management  
+- 👑 Leadership  
+- 🎯 Attention to Detail  
+- 🤝 Collaboration  
 ---
 
 ## 🌐 Connect With Me
