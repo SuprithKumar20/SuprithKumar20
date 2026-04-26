@@ -68,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake (AUTO)
+## 🐍 Contribution Snake 
 ![snake gif](https://raw.githubusercontent.com/SuprithKumar20/SuprithKumar20/output/dist/github-contribution-grid-snake.svg)
 ---
 
