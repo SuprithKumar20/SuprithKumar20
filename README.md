@@ -64,7 +64,6 @@
 
 ---
 
-## 🐍 Contribution Snake (AUTO)
 
 ## 🐍 Contribution Snake
 
