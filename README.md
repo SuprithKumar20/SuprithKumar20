@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="220" src="sk.jpg">
 
 ## 🧑‍💻 About Me
 - 🎓 BE (ISE) | CGPA: **8.8**  
