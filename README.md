@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hey, I'm Suprith Kumar B L</h1>
+<img src="profile.jpg" width="180"/>
 <h3 align="center">🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Builder</h3>
 
 
