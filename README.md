@@ -11,10 +11,7 @@
 
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suprithkumarbl20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprithkumarbl20&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 
 <img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
