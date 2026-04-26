@@ -46,8 +46,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suprithkumarbl20&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprithkumarbl20&layout=compact&theme=tokyonight" />
 </p>
 
 ---
