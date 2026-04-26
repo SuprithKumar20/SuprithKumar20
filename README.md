@@ -54,8 +54,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suprithkumarbl20&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprithkumarbl20&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SuprithKumar20&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuprithKumarbl20&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,14 +63,14 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=SuprithKumar20&theme=tokyonight&border_radius=10" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (AUTO)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SuprithKumar20/SuprithKumar20/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
